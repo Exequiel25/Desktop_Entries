@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Telegram
+Comment=Telegram desktop app
+Path=/home/exequiel/Software/Telegram
+Exec=Telegram
+Icon=/usr/share/icons/MyIcons/telegram-icon.svg
+Terminal=false

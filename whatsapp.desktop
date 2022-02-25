@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Whatsapp Web
+Comment=Whatsapp url
+Exec=brave https://web.whatsapp.com/
+Icon=/usr/share/icons/MyIcons/whatsapp-icon.svg
+Terminal=false

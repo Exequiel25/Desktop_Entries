@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Anaconda Navigator
+Comment=Workspace for data science topics with conda
+Path=/home/exequiel/anaconda3/bin
+Exec=anaconda-navigator
+Icon=/usr/share/icons/MyIcons/anaconda-icon.svg
+Terminal=false
+Categories=Development;
