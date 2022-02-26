@@ -1,8 +1,8 @@
+#!/usr/bin/env xdg-open
 [Desktop Entry]
 Type=Application
 Name=Telegram
 Comment=Telegram desktop app
-Path=/home/exequiel/Software/Telegram
-Exec=Telegram
+Exec=/home/exequiel/Software/Telegram/Telegram
 Icon=/usr/share/icons/MyIcons/telegram-icon.svg
 Terminal=false

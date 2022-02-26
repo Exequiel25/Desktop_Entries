@@ -1,3 +1,4 @@
+#!/usr/bin/env xdg-open
 [Desktop Entry]
 Type=Application
 Name=Anaconda Navigator
@@ -5,4 +6,3 @@ Comment=Workspace for data science topics with conda
 Exec=/home/exequiel/anaconda3/bin/anaconda-navigator
 Icon=/usr/share/icons/MyIcons/anaconda-icon.svg
 Terminal=false
-Categories=Development;
