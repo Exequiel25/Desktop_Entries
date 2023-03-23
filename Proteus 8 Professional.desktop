@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Proteus 8 Professional
+Exec=env WINEPREFIX="/home/exequiel/.wine" wine C:\\\\Program\\ Files\\ \\(x86\\)\\\\Labcenter\\ Electronics\\\\Proteus\\ 8\\ Professional\\\\BIN\\\\PDS.EXE 
+Type=Application
+StartupNotify=true
+Path=/home/exequiel/.wine/dosdevices/c:/Program Files (x86)/Labcenter Electronics/Proteus 8 Professional/BIN/
+Icon=57A0_PDS.0
+StartupWMClass=pds.exe
