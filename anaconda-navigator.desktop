@@ -3,6 +3,6 @@
 Type=Application
 Name=Anaconda Navigator
 Comment=Workspace for data science topics with conda
-Exec=/home/exequiel/miniconda/bin/anaconda-navigator
+Exec=/home/exequiel/miniconda3/bin/anaconda-navigator
 Icon=/usr/share/icons/MyIcons/anaconda-icon.svg
 Terminal=false
