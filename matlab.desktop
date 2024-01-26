@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Matlab
+Comment=Workspace for data science topics with conda
+Exec=/usr/local/MATLAB/R2023b/bin/matlab -desktop
+Icon=/usr/local/MATLAB/R2023b/bin/glnxa64/cef_resources/matlab_icon.png
+Terminal=false
+Categories=Development
